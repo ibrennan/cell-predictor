@@ -1,5 +1,5 @@
 import { Card, Input, Stack, Table, Text } from "@mantine/core";
-import { useMemo, useState } from "react";
+import { useMemo } from "react";
 import { data } from "./data";
 import Highcharts from "highcharts";
 import { HighchartsReact } from "highcharts-react-official";
